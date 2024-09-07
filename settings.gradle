@@ -1,0 +1,6 @@
+rootProject.name = 'gradle-multi-module'
+include 'common','service','web'
+include 'common'
+include 'web'
+include 'service'
+
